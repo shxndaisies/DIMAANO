@@ -23,7 +23,7 @@ Forms<br>
 <img src="5.jpg" alt="code" width="40%">
 <img src="55.jpg" alt="browser output" width="40%"><br>
 <hr length="100%" color="White">
-<font size="5" face="Harlow Solid"><a href="e-portfolio.html" style="color:pink;">Back to Navigation</a></font>
+<font size="5" face="Harlow Solid"><a href="index.html" style="color:pink;">Back to Navigation</a></font>
 <br>
 <hr length="100%" color="White">
 source: ICT powerpoints by Ms. Uminga <br>
